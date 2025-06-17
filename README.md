@@ -49,7 +49,7 @@ I'm especially interested in:
 
 ### 📫 How to reach me
 
-- Email: **sabrina.rodrigues.dev@gmail.com**
+- Email: **sabrinnasrodrigues@gmail.com**
 - LinkedIn: [linkedin.com/in/sabrinnasr](https://www.linkedin.com/in/sabrinnasr)
 
 ---
