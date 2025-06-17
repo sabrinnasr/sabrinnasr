@@ -39,7 +39,7 @@ I'm especially interested in:
     </td>
     <td>
       <a href="https://sabrinarodrigues.dev/">
-        <img align="center" src="https://github.com/user-attachments/assets/a76900e5-6dab-4ae4-a3d1-77c5d4530914" width="400" height="120" />
+        <img align="center" src="https://github.com/user-attachments/assets/ed43a492-affc-4b04-8742-fd200c947420" width="400" height="120" />
       </a>
     </td>
   </tr>
