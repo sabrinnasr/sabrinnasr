@@ -32,7 +32,7 @@ I'm especially interested in:
 ### 📌 Pinned Project
 <table>
   <tr>
-    <td>
+    <td style="padding-left: 16px;"> 
       <a href="https://github.com/sabrinarodrigues/flickshelf-ui">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flickshelf&repo=flickshelf-ui&theme=default" />
       </a>
