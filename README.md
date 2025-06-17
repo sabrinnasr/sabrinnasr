@@ -39,13 +39,11 @@ I'm especially interested in:
     </td>
     <td>
       <a href="https://sabrinarodrigues.dev/">
-        <img align="center" src="https://github.com/user-attachments/assets/ed43a492-affc-4b04-8742-fd200c947420" width="400" height="120" />
+        <img align="center" src="https://github.com/user-attachments/assets/b54816bb-99ba-45fe-92fc-41473dee17ff" width="400" height="120" />
       </a>
     </td>
   </tr>
 </table>
-
-
 
 ---
 
