@@ -32,6 +32,8 @@ I'm especially interested in:
 ### 📌 Pinned Project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flickshelf&repo=flickshelf-ui&theme=default)](https://github.com/flickshelf/flickshelf-ui)
+[![My Project](https://raw.githubusercontent.com/sabrinnasr/seurepo/main/imagens/preview.png)](https://sabrinarodrigues.dev/)
+
 
 ---
 
