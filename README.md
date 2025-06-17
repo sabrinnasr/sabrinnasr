@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a passionate tech enthusiast currently pursuing a degree in **Systems Analysis and Development**.  
+I'm a passionate tech enthusiast currently pursuing a degree in **Software Development**.  
 After living in the US for almost 2 years, I'm now based in **Rio Grande do Sul, Brazil**, and looking for an **internship opportunity in software development**.
 
 I'm especially interested in:
