@@ -30,12 +30,14 @@ I'm especially interested in:
 ---
 
 ### 📌 Pinned Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flickshelf&repo=flickshelf-ui&theme=default)](https://github.com/flickshelf/flickshelf-ui)
+[![My Project](https://github.com/user-attachments/assets/a76900e5-6dab-4ae4-a3d1-77c5d4530914)](https://sabrinarodrigues.dev/)
 
 <table>
   <tr>
     <td>
       <a href="https://github.com/sabrinarodrigues/flickshelf-ui">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sabrinarodrigues&repo=flickshelf-ui&theme=default" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flickshelf&repo=flickshelf-ui&theme=default" />
       </a>
     </td>
     <td>
