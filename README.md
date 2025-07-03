@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sabrina Rodrigues</h1>
+<h1 align="center">Hi there 👋🏻, I'm Sabrina Rodrigues</h1>
 
 <p align="center">
   💻 Software Development Student • 🇧🇷 Based in Brazil • 🌎 English & Portuguese Speaker
@@ -6,12 +6,12 @@
 
 ---
 
-### 👩‍💻 About Me
+### 👩🏼‍💻 About Me
 
 I'm a passionate tech enthusiast currently pursuing a degree in **Software Development**.  
-After living in the US for almost 2 years, I'm now based in **Rio Grande do Sul, Brazil**, and looking for an **internship opportunity in software development**.
+After living in the US for almost 2 years, I'm now based in **Rio Grande do Sul, Brazil**, and actively looking for an **internship opportunity in software development**.
 
-I'm especially interested in:
+I’m especially interested in:
 - Front-end development (React, HTML, CSS)
 - Building clean and accessible user interfaces
 - Learning new tools and collaborating on real-world projects
@@ -29,29 +29,41 @@ I'm especially interested in:
 
 ---
 
-### 📌 Pinned Project
-<table>
-  <tr>
-    <td style="padding-left: 16px;"> 
-      <a href="https://github.com/sabrinarodrigues/flickshelf-ui">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flickshelf&repo=flickshelf-ui&theme=default" />
-      </a>
-    </td>
-    <td>
-      <a href="https://sabrinarodrigues.dev/">
-        <img align="center" src="https://github.com/user-attachments/assets/b54816bb-99ba-45fe-92fc-41473dee17ff" width="400" height="200" />
-      </a>
-    </td>
-  </tr>
-</table>
+### 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://sabrinarodrigues.dev/">
+    <img src="https://github.com/user-attachments/assets/c9fdf3c6-e9b4-4da9-a7c5-5189d9a0f68d" width="850" height="300"/>
+  </a>
+</p>
 
 ---
 
-### 📫 How to reach me
+### 📌 Pinned Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/flickshelf/flickshelf-ui">
+          <img src="https://github.com/user-attachments/assets/087d56cb-f4cf-48d6-b455-8b2ad858a55c" width="400" height="125"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sabrinnasr/portfolio-v2">
+          <img src="https://github.com/user-attachments/assets/19d0aab1-3630-40f8-9128-bd606cffc8ea" width="400" height="125"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📫 How to Reach Me
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrinnasrodrigues@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodriguessabrina)
-
 
 ---
 
@@ -60,5 +72,5 @@ I'm especially interested in:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabrinnasr/sabrinnasr/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabrinnasr/sabrinnasr/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sabrinnasr/sabrinnasr/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/sabrinnasr/sabrinnasr/output/github-contribution-grid-snake.svg">
 </picture>
